@@ -1,0 +1,3552 @@
+{
+ "base": -0.7547789306913125,
+ "passo": 0.05,
+ "arvores": [
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "valor": 1.6729385490223196,
+     "entregas": 78
+    },
+    "nao": {
+     "coluna": 2,
+     "corte": 4.0,
+     "sim": {
+      "valor": 1.2729278642075526,
+      "entregas": 142
+     },
+     "nao": {
+      "valor": 0.6224926091865168,
+      "entregas": 873
+     }
+    }
+   },
+   "nao": {
+    "coluna": 2,
+    "corte": 5.0,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 1.19788095554845,
+      "entregas": 122
+     },
+     "nao": {
+      "valor": -0.21513033979263552,
+      "entregas": 129
+     }
+    },
+    "nao": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.15074389647918265,
+      "entregas": 1349
+     },
+     "nao": {
+      "valor": -0.4970653383518024,
+      "entregas": 1415
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1520.0,
+   "sim": {
+    "coluna": 4,
+    "corte": 7.0,
+    "sim": {
+     "coluna": 2,
+     "corte": 4.0,
+     "sim": {
+      "valor": 1.4484917031177216,
+      "entregas": 138
+     },
+     "nao": {
+      "valor": 0.8020762488157471,
+      "entregas": 695
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.0005135268461745684,
+      "entregas": 198
+     },
+     "nao": {
+      "valor": 0.9028293576785328,
+      "entregas": 23
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 1.376166360715847,
+      "entregas": 89
+     },
+     "nao": {
+      "valor": -0.004705671648708138,
+      "entregas": 117
+     }
+    },
+    "nao": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.09622482018263122,
+      "entregas": 1401
+     },
+     "nao": {
+      "valor": -0.4930656113247884,
+      "entregas": 1447
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1520.0,
+   "sim": {
+    "coluna": 1,
+    "corte": 9.3,
+    "sim": {
+     "coluna": 3,
+     "corte": 81.8165625,
+     "sim": {
+      "valor": 0.41485483594328765,
+      "entregas": 24
+     },
+     "nao": {
+      "valor": 1.6715338057795797,
+      "entregas": 75
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 7.0,
+     "sim": {
+      "valor": 0.7318800419339949,
+      "entregas": 720
+     },
+     "nao": {
+      "valor": 0.2625739992067491,
+      "entregas": 193
+     }
+    }
+   },
+   "nao": {
+    "coluna": 2,
+    "corte": 5.0,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 1.0755450827711062,
+      "entregas": 119
+     },
+     "nao": {
+      "valor": -0.1254460124742762,
+      "entregas": 135
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 264.65625,
+     "sim": {
+      "valor": -0.2373362887206327,
+      "entregas": 2195
+     },
+     "nao": {
+      "valor": -0.6161736174539028,
+      "entregas": 647
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 1,
+    "corte": 9.3,
+    "sim": {
+     "coluna": 3,
+     "corte": 72.329375,
+     "sim": {
+      "valor": 0.49438613126456393,
+      "entregas": 46
+     },
+     "nao": {
+      "valor": 1.6527244120328288,
+      "entregas": 78
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 7.0,
+     "sim": {
+      "valor": 0.6475863980211436,
+      "entregas": 745
+     },
+     "nao": {
+      "valor": 0.07752315525718023,
+      "entregas": 236
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 1.1205814145669128,
+      "entregas": 106
+     },
+     "nao": {
+      "valor": -0.302179946967577,
+      "entregas": 109
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 183.95,
+     "sim": {
+      "valor": -0.2939704245632972,
+      "entregas": 2327
+     },
+     "nao": {
+      "valor": -0.6796273338766989,
+      "entregas": 461
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 99.34375,
+     "sim": {
+      "valor": 1.6936534876212812,
+      "entregas": 46
+     },
+     "nao": {
+      "valor": 0.6878708632786099,
+      "entregas": 20
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 7.0,
+     "sim": {
+      "valor": 0.6432886695539558,
+      "entregas": 785
+     },
+     "nao": {
+      "valor": 0.09852169001596121,
+      "entregas": 245
+     }
+    }
+   },
+   "nao": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 1.1404712274019244,
+      "entregas": 110
+     },
+     "nao": {
+      "valor": -0.09914279106364723,
+      "entregas": 1376
+     }
+    },
+    "nao": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.29704813487649334,
+      "entregas": 106
+     },
+     "nao": {
+      "valor": -0.49741331000273137,
+      "entregas": 1420
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 2.3,
+     "sim": {
+      "valor": 1.6509267115727644,
+      "entregas": 37
+     },
+     "nao": {
+      "valor": 0.8191283862459735,
+      "entregas": 34
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 2214.753125,
+     "sim": {
+      "valor": 0.7301488245094497,
+      "entregas": 548
+     },
+     "nao": {
+      "valor": 0.3410725663769655,
+      "entregas": 486
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 1.1662098805868055,
+      "entregas": 106
+     },
+     "nao": {
+      "valor": -0.2044349664682248,
+      "entregas": 122
+     }
+    },
+    "nao": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.18431851899052024,
+      "entregas": 1379
+     },
+     "nao": {
+      "valor": -0.415856419543953,
+      "entregas": 1396
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 0,
+    "corte": 2380.75625,
+    "sim": {
+     "coluna": 2,
+     "corte": 6.0,
+     "sim": {
+      "valor": 1.7507613098398762,
+      "entregas": 41
+     },
+     "nao": {
+      "valor": 0.7752538532994885,
+      "entregas": 407
+     }
+    },
+    "nao": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 1.4232984026892799,
+      "entregas": 42
+     },
+     "nao": {
+      "valor": 0.2617726324864651,
+      "entregas": 599
+     }
+    }
+   },
+   "nao": {
+    "coluna": 2,
+    "corte": 5.0,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.9173754525235465,
+      "entregas": 128
+     },
+     "nao": {
+      "valor": -0.07593926093186745,
+      "entregas": 132
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 5.0,
+     "sim": {
+      "valor": -0.16091235232138562,
+      "entregas": 1273
+     },
+     "nao": {
+      "valor": -0.4495398873010079,
+      "entregas": 1486
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 7.0,
+   "sim": {
+    "coluna": 3,
+    "corte": 25.773125,
+    "sim": {
+     "coluna": 12,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.4323225446820796,
+      "entregas": 534
+     },
+     "nao": {
+      "valor": 0.9112176613202836,
+      "entregas": 421
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 22.729375,
+     "sim": {
+      "valor": -0.480004487430433,
+      "entregas": 80
+     },
+     "nao": {
+      "valor": 0.06498291047863608,
+      "entregas": 212
+     }
+    }
+   },
+   "nao": {
+    "coluna": 4,
+    "corte": 4.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 0.7850968804944018,
+      "entregas": 128
+     },
+     "nao": {
+      "valor": -0.108314413001094,
+      "entregas": 1522
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 439.00625,
+     "sim": {
+      "valor": -0.20387747975623152,
+      "entregas": 583
+     },
+     "nao": {
+      "valor": -0.5891518969670059,
+      "entregas": 628
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 5.0,
+   "sim": {
+    "coluna": 3,
+    "corte": 25.773125,
+    "sim": {
+     "coluna": 1,
+     "corte": 9.3,
+     "sim": {
+      "valor": 1.0218958261281386,
+      "entregas": 214
+     },
+     "nao": {
+      "valor": 0.34371481155626465,
+      "entregas": 1153
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 96.25,
+     "sim": {
+      "valor": -0.02081707739403709,
+      "entregas": 766
+     },
+     "nao": {
+      "valor": -0.36484654234512803,
+      "entregas": 295
+     }
+    }
+   },
+   "nao": {
+    "coluna": 9,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 396.953125,
+     "sim": {
+      "valor": -0.36427645068674636,
+      "entregas": 184
+     },
+     "nao": {
+      "valor": -0.825446877071862,
+      "entregas": 218
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 2.9,
+     "sim": {
+      "valor": -0.14883364669290045,
+      "entregas": 555
+     },
+     "nao": {
+      "valor": -0.4389965435727327,
+      "entregas": 723
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 102.08,
+     "sim": {
+      "valor": 1.572240288854511,
+      "entregas": 43
+     },
+     "nao": {
+      "valor": 0.7252846768243829,
+      "entregas": 21
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 7.0,
+     "sim": {
+      "valor": 0.4784854399064373,
+      "entregas": 775
+     },
+     "nao": {
+      "valor": 0.09444035294961405,
+      "entregas": 256
+     }
+    }
+   },
+   "nao": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 1.0089744800333946,
+      "entregas": 104
+     },
+     "nao": {
+      "valor": -0.05664602334166507,
+      "entregas": 1355
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 144.6490625,
+     "sim": {
+      "valor": -0.21123980043787097,
+      "entregas": 821
+     },
+     "nao": {
+      "valor": -0.45622138916367955,
+      "entregas": 733
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 2380.75625,
+     "sim": {
+      "valor": 0.9372049886178183,
+      "entregas": 30
+     },
+     "nao": {
+      "valor": 1.5718536169636728,
+      "entregas": 30
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 2380.75625,
+     "sim": {
+      "valor": 0.7126689033379651,
+      "entregas": 449
+     },
+     "nao": {
+      "valor": 0.28235434753856137,
+      "entregas": 600
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 4,
+     "corte": 5.0,
+     "sim": {
+      "valor": 0.8653175570619412,
+      "entregas": 94
+     },
+     "nao": {
+      "valor": -0.08212578875112873,
+      "entregas": 114
+     }
+    },
+    "nao": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.10845558005118992,
+      "entregas": 1347
+     },
+     "nao": {
+      "valor": -0.3936750944747562,
+      "entregas": 1444
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 1,
+    "corte": 3.3,
+    "sim": {
+     "coluna": 7,
+     "corte": 331.77250000000004,
+     "sim": {
+      "valor": 1.44745322435939,
+      "entregas": 53
+     },
+     "nao": {
+      "valor": 0.5498160879036629,
+      "entregas": 392
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 4.0,
+     "sim": {
+      "valor": -0.07493508163952031,
+      "entregas": 168
+     },
+     "nao": {
+      "valor": 0.33995248643889897,
+      "entregas": 492
+     }
+    }
+   },
+   "nao": {
+    "coluna": 4,
+    "corte": 5.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 11.7625,
+     "sim": {
+      "valor": 0.9572228633810701,
+      "entregas": 88
+     },
+     "nao": {
+      "valor": -0.036766910926293264,
+      "entregas": 1292
+     }
+    },
+    "nao": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.14070790747938594,
+      "entregas": 98
+     },
+     "nao": {
+      "valor": -0.3624253818241984,
+      "entregas": 1525
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1587.690625,
+   "sim": {
+    "coluna": 11,
+    "corte": 0.0,
+    "sim": {
+     "valor": -0.5624511148320651,
+     "entregas": 26
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 8.0,
+     "sim": {
+      "valor": 0.5981606265138042,
+      "entregas": 630
+     },
+     "nao": {
+      "valor": 0.2532123482684302,
+      "entregas": 321
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.7362608645917929,
+      "entregas": 106
+     },
+     "nao": {
+      "valor": -0.12439588496332081,
+      "entregas": 125
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 5.0,
+     "sim": {
+      "valor": -0.1186471120991675,
+      "entregas": 1399
+     },
+     "nao": {
+      "valor": -0.3328712428044525,
+      "entregas": 1501
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1369.075,
+   "sim": {
+    "coluna": 4,
+    "corte": 12.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 184.415,
+     "sim": {
+      "valor": 0.43214392521244194,
+      "entregas": 20
+     },
+     "nao": {
+      "valor": 1.521641709498061,
+      "entregas": 37
+     }
+    },
+    "nao": {
+     "coluna": 2,
+     "corte": 6.0,
+     "sim": {
+      "valor": 0.8504021809811352,
+      "entregas": 77
+     },
+     "nao": {
+      "valor": 0.3515263550938501,
+      "entregas": 1096
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.6517532094012423,
+      "entregas": 104
+     },
+     "nao": {
+      "valor": -0.008705582966179846,
+      "entregas": 114
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 354.815625,
+     "sim": {
+      "valor": -0.15318763300892232,
+      "entregas": 1772
+     },
+     "nao": {
+      "valor": -0.45555777094444616,
+      "entregas": 888
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 7,
+    "corte": 42.1,
+    "sim": {
+     "coluna": 7,
+     "corte": 331.77250000000004,
+     "sim": {
+      "valor": 0.6252623147048885,
+      "entregas": 147
+     },
+     "nao": {
+      "valor": 0.1805290192384773,
+      "entregas": 906
+     }
+    },
+    "nao": {
+     "valor": 1.142566659109605,
+     "entregas": 34
+    }
+   },
+   "nao": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 1.4,
+     "sim": {
+      "valor": 0.14856961947380642,
+      "entregas": 119
+     },
+     "nao": {
+      "valor": 0.8700494146856136,
+      "entregas": 56
+     }
+    },
+    "nao": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.06689249882019074,
+      "entregas": 1389
+     },
+     "nao": {
+      "valor": -0.3124877698249254,
+      "entregas": 1457
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 5.0,
+   "sim": {
+    "coluna": 3,
+    "corte": 25.12,
+    "sim": {
+     "coluna": 1,
+     "corte": 13.3,
+     "sim": {
+      "valor": 0.9061012412104449,
+      "entregas": 117
+     },
+     "nao": {
+      "valor": 0.290931068600826,
+      "entregas": 1298
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 1.0,
+     "sim": {
+      "valor": 0.12216317573574301,
+      "entregas": 772
+     },
+     "nao": {
+      "valor": -0.47704256107214876,
+      "entregas": 245
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 183.95,
+    "sim": {
+     "coluna": 7,
+     "corte": 42.1,
+     "sim": {
+      "valor": -0.2721179570469778,
+      "entregas": 1244
+     },
+     "nao": {
+      "valor": 0.36806178263178896,
+      "entregas": 51
+     }
+    },
+    "nao": {
+     "coluna": 2,
+     "corte": 3.0,
+     "sim": {
+      "valor": -0.20141185597102612,
+      "entregas": 93
+     },
+     "nao": {
+      "valor": -0.7350381255022319,
+      "entregas": 288
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1369.075,
+   "sim": {
+    "coluna": 7,
+    "corte": 315.174375,
+    "sim": {
+     "coluna": 0,
+     "corte": 2300.125,
+     "sim": {
+      "valor": 1.295740484011658,
+      "entregas": 73
+     },
+     "nao": {
+      "valor": 0.4381091203544283,
+      "entregas": 89
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 5.0,
+     "sim": {
+      "valor": 0.8123312671857413,
+      "entregas": 115
+     },
+     "nao": {
+      "valor": 0.21003369454272383,
+      "entregas": 953
+     }
+    }
+   },
+   "nao": {
+    "coluna": 3,
+    "corte": 13.07,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.11624478331747283,
+      "entregas": 1176
+     },
+     "nao": {
+      "valor": -0.23363704774522112,
+      "entregas": 1393
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 0.4,
+     "sim": {
+      "valor": -0.6310611896143985,
+      "entregas": 277
+     },
+     "nao": {
+      "valor": 0.027905139294661433,
+      "entregas": 32
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1281.2125,
+   "sim": {
+    "coluna": 7,
+    "corte": 331.77250000000004,
+    "sim": {
+     "coluna": 7,
+     "corte": 551.09625,
+     "sim": {
+      "valor": -0.0313017097591531,
+      "entregas": 43
+     },
+     "nao": {
+      "valor": 1.0983763845344705,
+      "entregas": 105
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 246.526875,
+     "sim": {
+      "valor": -0.22144128202310534,
+      "entregas": 145
+     },
+     "nao": {
+      "valor": 0.28853540348344464,
+      "entregas": 990
+     }
+    }
+   },
+   "nao": {
+    "coluna": 4,
+    "corte": 5.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 0.9,
+     "sim": {
+      "valor": 0.08065533068549176,
+      "entregas": 1016
+     },
+     "nao": {
+      "valor": -0.38755688655252335,
+      "entregas": 224
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 21.31,
+     "sim": {
+      "valor": -0.14405357162609636,
+      "entregas": 868
+     },
+     "nao": {
+      "valor": -0.47851903234410126,
+      "entregas": 717
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 6.0,
+   "sim": {
+    "coluna": 1,
+    "corte": 9.3,
+    "sim": {
+     "coluna": 0,
+     "corte": 534.315625,
+     "sim": {
+      "valor": 0.8314975581494899,
+      "entregas": 154
+     },
+     "nao": {
+      "valor": -0.1898157392656528,
+      "entregas": 27
+     }
+    },
+    "nao": {
+     "coluna": 13,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.4357890707268621,
+      "entregas": 282
+     },
+     "nao": {
+      "valor": 0.06127195255006734,
+      "entregas": 1424
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 183.95,
+    "sim": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.3510136804247979,
+      "entregas": 123
+     },
+     "nao": {
+      "valor": -0.16900614027785915,
+      "entregas": 1667
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 15.2,
+     "sim": {
+      "valor": -0.2830944302312298,
+      "entregas": 209
+     },
+     "nao": {
+      "valor": -0.8192622727826203,
+      "entregas": 222
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1874.0874999999999,
+   "sim": {
+    "coluna": 1,
+    "corte": 0.5,
+    "sim": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.9186467153346605,
+      "entregas": 35
+     },
+     "nao": {
+      "valor": 0.18792793899438437,
+      "entregas": 681
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 45.96,
+     "sim": {
+      "valor": 0.5463417872163697,
+      "entregas": 30
+     },
+     "nao": {
+      "valor": 1.2855959295088732,
+      "entregas": 25
+     }
+    }
+   },
+   "nao": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 0.6723070281773657,
+      "entregas": 112
+     },
+     "nao": {
+      "valor": -0.008840130372449833,
+      "entregas": 1565
+     }
+    },
+    "nao": {
+     "coluna": 2,
+     "corte": 3.0,
+     "sim": {
+      "valor": -0.5257219182278519,
+      "entregas": 366
+     },
+     "nao": {
+      "valor": -0.11129974877560038,
+      "entregas": 1294
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1281.2125,
+   "sim": {
+    "coluna": 10,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 2.1,
+     "sim": {
+      "valor": 0.17238914123192403,
+      "entregas": 341
+     },
+     "nao": {
+      "valor": -0.28059788687852527,
+      "entregas": 249
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 1.2960683601488912,
+      "entregas": 60
+     },
+     "nao": {
+      "valor": 0.2994727108629364,
+      "entregas": 650
+     }
+    }
+   },
+   "nao": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 1.0,
+     "sim": {
+      "valor": 0.013338368911743035,
+      "entregas": 1085
+     },
+     "nao": {
+      "valor": -0.4482974362956307,
+      "entregas": 276
+     }
+    },
+    "nao": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.12812883306498463,
+      "entregas": 106
+     },
+     "nao": {
+      "valor": -0.328772682308267,
+      "entregas": 1341
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 821.8093749999999,
+   "sim": {
+    "coluna": 13,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 3.6,
+     "sim": {
+      "valor": 0.7428113028177878,
+      "entregas": 115
+     },
+     "nao": {
+      "valor": 0.31549883845856513,
+      "entregas": 194
+     }
+    },
+    "nao": {
+     "coluna": 10,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.06475239251263006,
+      "entregas": 663
+     },
+     "nao": {
+      "valor": 0.22199662281201946,
+      "entregas": 873
+     }
+    }
+   },
+   "nao": {
+    "coluna": 2,
+    "corte": 5.0,
+    "sim": {
+     "coluna": 9,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.6286183614070245,
+      "entregas": 33
+     },
+     "nao": {
+      "valor": 0.5173535749544407,
+      "entregas": 160
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 416.7375,
+     "sim": {
+      "valor": -0.16289891627629424,
+      "entregas": 991
+     },
+     "nao": {
+      "valor": -0.3850759928720337,
+      "entregas": 1079
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1661.35625,
+   "sim": {
+    "coluna": 7,
+    "corte": 315.174375,
+    "sim": {
+     "coluna": 1,
+     "corte": 5.5,
+     "sim": {
+      "valor": -0.1929399578293236,
+      "entregas": 30
+     },
+     "nao": {
+      "valor": 0.929544516950332,
+      "entregas": 100
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 208.5575,
+     "sim": {
+      "valor": -0.12711610396471867,
+      "entregas": 178
+     },
+     "nao": {
+      "valor": 0.3247210416813528,
+      "entregas": 575
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 9.3,
+    "sim": {
+     "coluna": 6,
+     "corte": 3.0,
+     "sim": {
+      "valor": -0.04870998189459714,
+      "entregas": 119
+     },
+     "nao": {
+      "valor": 0.49739470608998737,
+      "entregas": 179
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 183.95,
+     "sim": {
+      "valor": -0.07490659324047018,
+      "entregas": 2447
+     },
+     "nao": {
+      "valor": -0.35432160587365996,
+      "entregas": 480
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1281.2125,
+   "sim": {
+    "coluna": 4,
+    "corte": 11.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 214.7,
+     "sim": {
+      "valor": 0.010245640432944457,
+      "entregas": 45
+     },
+     "nao": {
+      "valor": 0.8580864673309752,
+      "entregas": 112
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 37.50625,
+     "sim": {
+      "valor": 0.09969734140422029,
+      "entregas": 755
+     },
+     "nao": {
+      "valor": 0.3722796931659368,
+      "entregas": 353
+     }
+    }
+   },
+   "nao": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 63.6184375,
+     "sim": {
+      "valor": 0.003486833133811529,
+      "entregas": 1177
+     },
+     "nao": {
+      "valor": -0.5049986156057132,
+      "entregas": 153
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 63.6184375,
+     "sim": {
+      "valor": -0.297749657423848,
+      "entregas": 1358
+     },
+     "nao": {
+      "valor": 0.12193351126547405,
+      "entregas": 155
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 2469.35,
+   "sim": {
+    "coluna": 3,
+    "corte": 43.15,
+    "sim": {
+     "coluna": 7,
+     "corte": 477.406875,
+     "sim": {
+      "valor": -0.2656662475633699,
+      "entregas": 20
+     },
+     "nao": {
+      "valor": 0.6096586468484836,
+      "entregas": 305
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 2.0,
+     "sim": {
+      "valor": 0.4533318315106314,
+      "entregas": 31
+     },
+     "nao": {
+      "valor": -0.3221260618937062,
+      "entregas": 38
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 9.3,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.5365126665262759,
+      "entregas": 179
+     },
+     "nao": {
+      "valor": -0.005600417541752687,
+      "entregas": 173
+     }
+    },
+    "nao": {
+     "coluna": 2,
+     "corte": 4.0,
+     "sim": {
+      "valor": -0.5573932345429018,
+      "entregas": 172
+     },
+     "nao": {
+      "valor": -0.06022400192042009,
+      "entregas": 3190
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 2380.75625,
+     "sim": {
+      "valor": 0.672117462913235,
+      "entregas": 24
+     },
+     "nao": {
+      "valor": 1.2385226594674403,
+      "entregas": 40
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 2469.35,
+     "sim": {
+      "valor": 0.38909163369561767,
+      "entregas": 366
+     },
+     "nao": {
+      "valor": 0.09102362685647655,
+      "entregas": 673
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 6.8,
+    "sim": {
+     "coluna": 9,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.5432549759549001,
+      "entregas": 52
+     },
+     "nao": {
+      "valor": 0.2672406050188044,
+      "entregas": 378
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 52.23375,
+     "sim": {
+      "valor": -0.07648401041803105,
+      "entregas": 2405
+     },
+     "nao": {
+      "valor": -0.4134438602521826,
+      "entregas": 170
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1587.690625,
+   "sim": {
+    "coluna": 3,
+    "corte": 81.8165625,
+    "sim": {
+     "coluna": 2,
+     "corte": 4.0,
+     "sim": {
+      "valor": -0.540605822984437,
+      "entregas": 38
+     },
+     "nao": {
+      "valor": 0.09804080670954417,
+      "entregas": 24
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 1765.415625,
+     "sim": {
+      "valor": 0.2682227297273302,
+      "entregas": 787
+     },
+     "nao": {
+      "valor": 0.6564831148374425,
+      "entregas": 126
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 6,
+     "corte": 5.0,
+     "sim": {
+      "valor": -0.4581675542227239,
+      "entregas": 23
+     },
+     "nao": {
+      "valor": 0.4555770053283233,
+      "entregas": 204
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 183.95,
+     "sim": {
+      "valor": -0.0807338781563532,
+      "entregas": 2435
+     },
+     "nao": {
+      "valor": -0.4184375571980056,
+      "entregas": 471
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1520.0,
+   "sim": {
+    "coluna": 4,
+    "corte": 11.0,
+    "sim": {
+     "coluna": 3,
+     "corte": 45.96,
+     "sim": {
+      "valor": 0.836644392260227,
+      "entregas": 73
+     },
+     "nao": {
+      "valor": 0.24475808261950097,
+      "entregas": 84
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 42.1,
+     "sim": {
+      "valor": 0.09388341127646675,
+      "entregas": 856
+     },
+     "nao": {
+      "valor": 0.8874937386481139,
+      "entregas": 24
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 25.834375,
+    "sim": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 0.2287114710498632,
+      "entregas": 217
+     },
+     "nao": {
+      "valor": -0.12287375149664252,
+      "entregas": 2791
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 4.0,
+     "sim": {
+      "valor": -0.36312850137712643,
+      "entregas": 22
+     },
+     "nao": {
+      "valor": -0.9979199181613303,
+      "entregas": 41
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1520.0,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 6,
+     "corte": 3.0,
+     "sim": {
+      "valor": 0.4777725435849802,
+      "entregas": 34
+     },
+     "nao": {
+      "valor": 1.3819738231558218,
+      "entregas": 25
+     }
+    },
+    "nao": {
+     "coluna": 12,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.07048463888984036,
+      "entregas": 650
+     },
+     "nao": {
+      "valor": 0.3984436829059509,
+      "entregas": 323
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 22.565625,
+    "sim": {
+     "coluna": 7,
+     "corte": 148.14,
+     "sim": {
+      "valor": 1.366549095876414,
+      "entregas": 20
+     },
+     "nao": {
+      "valor": -0.08670931749846124,
+      "entregas": 23
+     }
+    },
+    "nao": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.2268091486514022,
+      "entregas": 187
+     },
+     "nao": {
+      "valor": -0.17304690638932368,
+      "entregas": 2846
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1520.0,
+   "sim": {
+    "coluna": 0,
+    "corte": 2469.35,
+    "sim": {
+     "coluna": 12,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.27754042253258787,
+      "entregas": 155
+     },
+     "nao": {
+      "valor": 0.6326701109711771,
+      "entregas": 219
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 2120.15625,
+     "sim": {
+      "valor": -0.06452525595350538,
+      "entregas": 275
+     },
+     "nao": {
+      "valor": 0.3190890298013575,
+      "entregas": 382
+     }
+    }
+   },
+   "nao": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 0.5147627564807569,
+      "entregas": 125
+     },
+     "nao": {
+      "valor": -0.023935429019589293,
+      "entregas": 1360
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 155.72375,
+     "sim": {
+      "valor": -0.06271746308684911,
+      "entregas": 775
+     },
+     "nao": {
+      "valor": -0.31475067689864594,
+      "entregas": 817
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 3,
+    "corte": 37.50625,
+    "sim": {
+     "coluna": 3,
+     "corte": 42.02,
+     "sim": {
+      "valor": 0.20788975284656053,
+      "entregas": 715
+     },
+     "nao": {
+      "valor": -0.28688158262209074,
+      "entregas": 121
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 63.6184375,
+     "sim": {
+      "valor": 0.6409546612849512,
+      "entregas": 250
+     },
+     "nao": {
+      "valor": -0.3086167630826915,
+      "entregas": 23
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 0,
+     "corte": 945.1,
+     "sim": {
+      "valor": 0.9483549641398448,
+      "entregas": 31
+     },
+     "nao": {
+      "valor": 0.27472271524299186,
+      "entregas": 170
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 183.95,
+     "sim": {
+      "valor": -0.08866934701866677,
+      "entregas": 2292
+     },
+     "nao": {
+      "valor": -0.40032844985279337,
+      "entregas": 506
+     }
+    }
+   }
+  },
+  {
+   "coluna": 5,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 3,
+    "corte": 31.1040625,
+    "sim": {
+     "coluna": 7,
+     "corte": 111.77125000000001,
+     "sim": {
+      "valor": 1.266046375789322,
+      "entregas": 68
+     },
+     "nao": {
+      "valor": 0.24458693475475327,
+      "entregas": 40
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 168.84156249999998,
+     "sim": {
+      "valor": -0.3300328588659508,
+      "entregas": 69
+     },
+     "nao": {
+      "valor": 0.4285289644151951,
+      "entregas": 87
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 2380.75625,
+    "sim": {
+     "coluna": 7,
+     "corte": 331.77250000000004,
+     "sim": {
+      "valor": 1.0674924794719567,
+      "entregas": 51
+     },
+     "nao": {
+      "valor": 0.14431835007480603,
+      "entregas": 361
+     }
+    },
+    "nao": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.0514700190279384,
+      "entregas": 1731
+     },
+     "nao": {
+      "valor": -0.16425675209252266,
+      "entregas": 1701
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1467.715625,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 105.13875,
+     "sim": {
+      "valor": 1.0589975997153949,
+      "entregas": 37
+     },
+     "nao": {
+      "valor": -0.04892790219096746,
+      "entregas": 20
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 5.0,
+     "sim": {
+      "valor": 0.44925845757870264,
+      "entregas": 110
+     },
+     "nao": {
+      "valor": 0.164174160439496,
+      "entregas": 923
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.8380868757198818,
+      "entregas": 112
+     },
+     "nao": {
+      "valor": -0.10631061638893204,
+      "entregas": 106
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 3.0,
+     "sim": {
+      "valor": 0.07357637947987662,
+      "entregas": 1119
+     },
+     "nao": {
+      "valor": -0.16679030668828498,
+      "entregas": 1681
+     }
+    }
+   }
+  },
+  {
+   "coluna": 6,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 2,
+    "corte": 1.0,
+    "sim": {
+     "coluna": 5,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.6022312424386222,
+      "entregas": 170
+     },
+     "nao": {
+      "valor": 0.09644196130399958,
+      "entregas": 2197
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 1520.0,
+     "sim": {
+      "valor": 0.06620367849877475,
+      "entregas": 299
+     },
+     "nao": {
+      "valor": -0.229096125404181,
+      "entregas": 839
+     }
+    }
+   },
+   "nao": {
+    "coluna": 7,
+    "corte": 140.8125,
+    "sim": {
+     "coluna": 7,
+     "corte": 301.955625,
+     "sim": {
+      "valor": -0.1400511559629117,
+      "entregas": 104
+     },
+     "nao": {
+      "valor": -0.6658029667457641,
+      "entregas": 219
+     }
+    },
+    "nao": {
+     "coluna": 8,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.3212088850605604,
+      "entregas": 146
+     },
+     "nao": {
+      "valor": -0.42802971913694543,
+      "entregas": 134
+     }
+    }
+   }
+  },
+  {
+   "coluna": 1,
+   "corte": 9.3,
+   "sim": {
+    "coluna": 4,
+    "corte": 7.0,
+    "sim": {
+     "coluna": 3,
+     "corte": 51.28,
+     "sim": {
+      "valor": 0.36742999838222834,
+      "entregas": 78
+     },
+     "nao": {
+      "valor": 1.0365464534040014,
+      "entregas": 68
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 127.4,
+     "sim": {
+      "valor": 0.15411520492301514,
+      "entregas": 199
+     },
+     "nao": {
+      "valor": -0.7683749430701875,
+      "entregas": 31
+     }
+    }
+   },
+   "nao": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 3.6,
+     "sim": {
+      "valor": -0.0886368006646633,
+      "entregas": 67
+     },
+     "nao": {
+      "valor": 0.44298250159784996,
+      "entregas": 166
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 37.50625,
+     "sim": {
+      "valor": -0.18950538319399288,
+      "entregas": 841
+     },
+     "nao": {
+      "valor": -0.01615745754354177,
+      "entregas": 2658
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 2469.35,
+   "sim": {
+    "coluna": 1,
+    "corte": 0.6,
+    "sim": {
+     "coluna": 4,
+     "corte": 10.0,
+     "sim": {
+      "valor": 0.5810647703509677,
+      "entregas": 182
+     },
+     "nao": {
+      "valor": 0.25992463797742466,
+      "entregas": 177
+     }
+    },
+    "nao": {
+     "valor": 0.9524471041206994,
+     "entregas": 36
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 58.303124999999994,
+    "sim": {
+     "coluna": 1,
+     "corte": 9.3,
+     "sim": {
+      "valor": 0.3066883137491584,
+      "entregas": 320
+     },
+     "nao": {
+      "valor": -0.014492302204231729,
+      "entregas": 3216
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 70.13374999999999,
+     "sim": {
+      "valor": -0.5818148904304297,
+      "entregas": 156
+     },
+     "nao": {
+      "valor": 0.40839138196705765,
+      "entregas": 21
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 7.0,
+   "sim": {
+    "coluna": 1,
+    "corte": 1.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 1.1,
+     "sim": {
+      "valor": 0.23849292978832057,
+      "entregas": 956
+     },
+     "nao": {
+      "valor": 0.8290487930502903,
+      "entregas": 30
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 0.4,
+     "sim": {
+      "valor": -0.21306786175088088,
+      "entregas": 177
+     },
+     "nao": {
+      "valor": 0.5237477842477083,
+      "entregas": 51
+     }
+    }
+   },
+   "nao": {
+    "coluna": 15,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 3,
+     "corte": 37.50625,
+     "sim": {
+      "valor": -0.42333383103945565,
+      "entregas": 125
+     },
+     "nao": {
+      "valor": 0.2883959874759447,
+      "entregas": 470
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 7.3,
+     "sim": {
+      "valor": 0.14271162114993446,
+      "entregas": 303
+     },
+     "nao": {
+      "valor": -0.17053931627720725,
+      "entregas": 1996
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1008.15,
+   "sim": {
+    "coluna": 2,
+    "corte": 6.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 2214.753125,
+     "sim": {
+      "valor": 0.9845757806474087,
+      "entregas": 52
+     },
+     "nao": {
+      "valor": 0.2655375956480883,
+      "entregas": 58
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 1063.859375,
+     "sim": {
+      "valor": 0.10014366490394092,
+      "entregas": 1411
+     },
+     "nao": {
+      "valor": 0.605530753929467,
+      "entregas": 56
+     }
+    }
+   },
+   "nao": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 354.815625,
+     "sim": {
+      "valor": 0.6405180793642913,
+      "entregas": 108
+     },
+     "nao": {
+      "valor": -0.1612321884936295,
+      "entregas": 53
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 25.834375,
+     "sim": {
+      "valor": -0.05661603372472755,
+      "entregas": 2309
+     },
+     "nao": {
+      "valor": -0.7555214920885444,
+      "entregas": 61
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 5.0,
+   "sim": {
+    "coluna": 7,
+    "corte": 73.401875,
+    "sim": {
+     "coluna": 3,
+     "corte": 12.45375,
+     "sim": {
+      "valor": 0.17470788810465565,
+      "entregas": 1988
+     },
+     "nao": {
+      "valor": -0.3672997105885272,
+      "entregas": 89
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 299.7125,
+     "sim": {
+      "valor": -0.27453218675086355,
+      "entregas": 340
+     },
+     "nao": {
+      "valor": 0.7416731757519262,
+      "entregas": 36
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 865.9,
+    "sim": {
+     "coluna": 7,
+     "corte": 222.21875,
+     "sim": {
+      "valor": -0.25691382935242674,
+      "entregas": 50
+     },
+     "nao": {
+      "valor": 0.42018950968010377,
+      "entregas": 154
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 432.485,
+     "sim": {
+      "valor": 0.32559213392121655,
+      "entregas": 93
+     },
+     "nao": {
+      "valor": -0.24394470510769456,
+      "entregas": 1358
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 7.0,
+   "sim": {
+    "coluna": 1,
+    "corte": 0.9,
+    "sim": {
+     "coluna": 1,
+     "corte": 5.5,
+     "sim": {
+      "valor": -0.038210572997714944,
+      "entregas": 274
+     },
+     "nao": {
+      "valor": 0.3316343006461677,
+      "entregas": 756
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 27.666875,
+     "sim": {
+      "valor": 0.20630528322660807,
+      "entregas": 125
+     },
+     "nao": {
+      "valor": -0.6681264373163629,
+      "entregas": 84
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 10.5,
+    "sim": {
+     "coluna": 7,
+     "corte": 230.0778125,
+     "sim": {
+      "valor": -0.29518892971904065,
+      "entregas": 54
+     },
+     "nao": {
+      "valor": 0.43507442068082175,
+      "entregas": 160
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 25.834375,
+     "sim": {
+      "valor": -0.12362842992099239,
+      "entregas": 2600
+     },
+     "nao": {
+      "valor": -0.8313343676808577,
+      "entregas": 55
+     }
+    }
+   }
+  },
+  {
+   "coluna": 3,
+   "corte": 29.07,
+   "sim": {
+    "coluna": 6,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 729.196875,
+     "sim": {
+      "valor": 0.11077620580392575,
+      "entregas": 1298
+     },
+     "nao": {
+      "valor": 0.44275508007725073,
+      "entregas": 226
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 1.7,
+     "sim": {
+      "valor": -0.02299460028997851,
+      "entregas": 187
+     },
+     "nao": {
+      "valor": -0.571051587721741,
+      "entregas": 70
+     }
+    }
+   },
+   "nao": {
+    "coluna": 6,
+    "corte": 5.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 0.6,
+     "sim": {
+      "valor": -0.5140640328713298,
+      "entregas": 197
+     },
+     "nao": {
+      "valor": 0.582744038581888,
+      "entregas": 24
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 1008.15,
+     "sim": {
+      "valor": 0.1884874171387052,
+      "entregas": 221
+     },
+     "nao": {
+      "valor": -0.09575463975994569,
+      "entregas": 1885
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 5.0,
+   "sim": {
+    "coluna": 1,
+    "corte": 2.7,
+    "sim": {
+     "coluna": 3,
+     "corte": 21.74,
+     "sim": {
+      "valor": 0.22631980569071716,
+      "entregas": 834
+     },
+     "nao": {
+      "valor": -0.08645109164281847,
+      "entregas": 260
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 0.5,
+     "sim": {
+      "valor": -0.057104235556106706,
+      "entregas": 1194
+     },
+     "nao": {
+      "valor": 0.35795880933206903,
+      "entregas": 144
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 891.51875,
+    "sim": {
+     "coluna": 6,
+     "corte": 1.0,
+     "sim": {
+      "valor": 0.4286508865241091,
+      "entregas": 141
+     },
+     "nao": {
+      "valor": -0.3617429155886608,
+      "entregas": 51
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 42.1,
+     "sim": {
+      "valor": -0.2293810824975549,
+      "entregas": 1431
+     },
+     "nao": {
+      "valor": 0.3209401917443208,
+      "entregas": 53
+     }
+    }
+   }
+  },
+  {
+   "coluna": 1,
+   "corte": 9.3,
+   "sim": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 865.9,
+     "sim": {
+      "valor": 0.8580467822402168,
+      "entregas": 99
+     },
+     "nao": {
+      "valor": 0.22000773281084676,
+      "entregas": 103
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 2.0,
+     "sim": {
+      "valor": -0.43002563999424825,
+      "entregas": 105
+     },
+     "nao": {
+      "valor": 0.35051974300202055,
+      "entregas": 97
+     }
+    }
+   },
+   "nao": {
+    "coluna": 7,
+    "corte": 86.52875,
+    "sim": {
+     "coluna": 0,
+     "corte": 709.925,
+     "sim": {
+      "valor": 0.1187730866291715,
+      "entregas": 1511
+     },
+     "nao": {
+      "valor": -0.12291191141432867,
+      "entregas": 1364
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 508.25625,
+     "sim": {
+      "valor": -0.33578237447984105,
+      "entregas": 520
+     },
+     "nao": {
+      "valor": 0.18884780981340202,
+      "entregas": 309
+     }
+    }
+   }
+  },
+  {
+   "coluna": 2,
+   "corte": 2.0,
+   "sim": {
+    "coluna": 3,
+    "corte": 16.53,
+    "sim": {
+     "coluna": 3,
+     "corte": 20.83,
+     "sim": {
+      "valor": 0.061944321823817504,
+      "entregas": 1306
+     },
+     "nao": {
+      "valor": -0.46312826251012656,
+      "entregas": 203
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 15.2,
+     "sim": {
+      "valor": 1.2749665171450983,
+      "entregas": 56
+     },
+     "nao": {
+      "valor": 0.24706595142462454,
+      "entregas": 106
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 183.95,
+    "sim": {
+     "coluna": 0,
+     "corte": 234.2875,
+     "sim": {
+      "valor": -0.07305349274004232,
+      "entregas": 2054
+     },
+     "nao": {
+      "valor": 0.5283629932940083,
+      "entregas": 56
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 152.116875,
+     "sim": {
+      "valor": -0.4398607860484386,
+      "entregas": 175
+     },
+     "nao": {
+      "valor": -0.0964419638192822,
+      "entregas": 152
+     }
+    }
+   }
+  },
+  {
+   "coluna": 5,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 11,
+    "corte": 0.0,
+    "sim": {
+     "valor": -0.3785382833547018,
+     "entregas": 26
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 354.815625,
+     "sim": {
+      "valor": 0.6855400307025071,
+      "entregas": 160
+     },
+     "nao": {
+      "valor": -0.16791734079930418,
+      "entregas": 54
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 1996.965625,
+    "sim": {
+     "coluna": 3,
+     "corte": 36.32,
+     "sim": {
+      "valor": 0.10409244407555766,
+      "entregas": 663
+     },
+     "nao": {
+      "valor": 0.6563206148591703,
+      "entregas": 50
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 86.52875,
+     "sim": {
+      "valor": -0.046864171160256575,
+      "entregas": 2436
+     },
+     "nao": {
+      "valor": -0.28049841574660045,
+      "entregas": 719
+     }
+    }
+   }
+  },
+  {
+   "coluna": 1,
+   "corte": 9.3,
+   "sim": {
+    "coluna": 12,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 3,
+     "corte": 63.56,
+     "sim": {
+      "valor": 0.25385132960347057,
+      "entregas": 30
+     },
+     "nao": {
+      "valor": 0.9104474482382904,
+      "entregas": 53
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.1770255526042151,
+      "entregas": 279
+     },
+     "nao": {
+      "valor": -0.5641426752521249,
+      "entregas": 36
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 0.4,
+    "sim": {
+     "coluna": 6,
+     "corte": 1.0,
+     "sim": {
+      "valor": -0.002499176247567362,
+      "entregas": 2445
+     },
+     "nao": {
+      "valor": -0.18622721099181114,
+      "entregas": 1082
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 4.0,
+     "sim": {
+      "valor": 0.8117441263014276,
+      "entregas": 44
+     },
+     "nao": {
+      "valor": 0.17931606011382725,
+      "entregas": 139
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 1996.965625,
+   "sim": {
+    "coluna": 7,
+    "corte": 278.15125,
+    "sim": {
+     "coluna": 0,
+     "corte": 2380.75625,
+     "sim": {
+      "valor": 0.7287969865797985,
+      "entregas": 85
+     },
+     "nao": {
+      "valor": -0.015698871534854903,
+      "entregas": 51
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 3.2,
+     "sim": {
+      "valor": 0.3352727973282568,
+      "entregas": 218
+     },
+     "nao": {
+      "valor": -0.05762627647467342,
+      "entregas": 332
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 264.65625,
+    "sim": {
+     "coluna": 7,
+     "corte": 671.906875,
+     "sim": {
+      "valor": 0.6868104164013127,
+      "entregas": 35
+     },
+     "nao": {
+      "valor": -0.012756145052126994,
+      "entregas": 2681
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 0.5,
+     "sim": {
+      "valor": -0.23908717690605077,
+      "entregas": 657
+     },
+     "nao": {
+      "valor": 0.48152910727890624,
+      "entregas": 49
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 5.0,
+   "sim": {
+    "coluna": 7,
+    "corte": 551.09625,
+    "sim": {
+     "coluna": 12,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.941243596786411,
+      "entregas": 21
+     },
+     "nao": {
+      "valor": -0.3298437847281147,
+      "entregas": 52
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 0.41478069071661705,
+      "entregas": 178
+     },
+     "nao": {
+      "valor": 0.09029285762600034,
+      "entregas": 2239
+     }
+    }
+   },
+   "nao": {
+    "coluna": 7,
+    "corte": 671.906875,
+    "sim": {
+     "valor": 0.8543499083846656,
+     "entregas": 25
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 46.8,
+     "sim": {
+      "valor": -0.18493110609339974,
+      "entregas": 1520
+     },
+     "nao": {
+      "valor": 0.31248198468753025,
+      "entregas": 73
+     }
+    }
+   }
+  },
+  {
+   "coluna": 5,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 7,
+    "corte": 160.451875,
+    "sim": {
+     "coluna": 0,
+     "corte": 558.6,
+     "sim": {
+      "valor": 0.43084290068672204,
+      "entregas": 61
+     },
+     "nao": {
+      "valor": -0.6929399663074566,
+      "entregas": 48
+     }
+    },
+    "nao": {
+     "coluna": 0,
+     "corte": 729.196875,
+     "sim": {
+      "valor": 0.18935698587463762,
+      "entregas": 71
+     },
+     "nao": {
+      "valor": 0.8445946767556478,
+      "entregas": 76
+     }
+    }
+   },
+   "nao": {
+    "coluna": 0,
+    "corte": 1520.0,
+    "sim": {
+     "coluna": 6,
+     "corte": 4.0,
+     "sim": {
+      "valor": -0.17609332455458548,
+      "entregas": 240
+     },
+     "nao": {
+      "valor": 0.18447033009739963,
+      "entregas": 724
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 256.751875,
+     "sim": {
+      "valor": 0.13615331494001154,
+      "entregas": 667
+     },
+     "nao": {
+      "valor": -0.15778849269911296,
+      "entregas": 2221
+     }
+    }
+   }
+  },
+  {
+   "coluna": 3,
+   "corte": 44.50875,
+   "sim": {
+    "coluna": 7,
+    "corte": 82.9921875,
+    "sim": {
+     "coluna": 6,
+     "corte": 0.0,
+     "sim": {
+      "valor": 0.3573203453956455,
+      "entregas": 529
+     },
+     "nao": {
+      "valor": -0.2596213648969234,
+      "entregas": 81
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 70.13374999999999,
+     "sim": {
+      "valor": -0.7213568400824653,
+      "entregas": 55
+     },
+     "nao": {
+      "valor": 0.10997801707507078,
+      "entregas": 105
+     }
+    }
+   },
+   "nao": {
+    "coluna": 3,
+    "corte": 30.36,
+    "sim": {
+     "coluna": 3,
+     "corte": 33.514375,
+     "sim": {
+      "valor": -0.06125431391763909,
+      "entregas": 661
+     },
+     "nao": {
+      "valor": -0.4132682770260989,
+      "entregas": 265
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 10.5,
+     "sim": {
+      "valor": 0.6193738369632342,
+      "entregas": 61
+     },
+     "nao": {
+      "valor": -0.02896915283019044,
+      "entregas": 2351
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 183.95,
+   "sim": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 486.221875,
+     "sim": {
+      "valor": 0.0020587044272070954,
+      "entregas": 1406
+     },
+     "nao": {
+      "valor": 0.30871332114500394,
+      "entregas": 423
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 0.6,
+     "sim": {
+      "valor": -0.14185529185752424,
+      "entregas": 1605
+     },
+     "nao": {
+      "valor": 0.37037135462954623,
+      "entregas": 160
+     }
+    }
+   },
+   "nao": {
+    "coluna": 3,
+    "corte": 14.22,
+    "sim": {
+     "coluna": 4,
+     "corte": 4.0,
+     "sim": {
+      "valor": 0.32603334764309555,
+      "entregas": 62
+     },
+     "nao": {
+      "valor": -0.24044413053099103,
+      "entregas": 185
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 2.2,
+     "sim": {
+      "valor": -0.8729108019284297,
+      "entregas": 87
+     },
+     "nao": {
+      "valor": -0.2861090780605698,
+      "entregas": 180
+     }
+    }
+   }
+  },
+  {
+   "coluna": 5,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 7,
+    "corte": 59.982499999999995,
+    "sim": {
+     "coluna": 6,
+     "corte": 1.0,
+     "sim": {
+      "valor": 0.6573103418191066,
+      "entregas": 170
+     },
+     "nao": {
+      "valor": -0.30523985315413715,
+      "entregas": 46
+     }
+    },
+    "nao": {
+     "valor": -0.7062993709446427,
+     "entregas": 28
+    }
+   },
+   "nao": {
+    "coluna": 7,
+    "corte": 34.8584375,
+    "sim": {
+     "coluna": 0,
+     "corte": 2469.35,
+     "sim": {
+      "valor": 0.1397382592450868,
+      "entregas": 380
+     },
+     "nao": {
+      "valor": -0.07386020954326343,
+      "entregas": 3419
+     }
+    },
+    "nao": {
+     "coluna": 4,
+     "corte": 7.0,
+     "sim": {
+      "valor": -0.0813352626025069,
+      "entregas": 20
+     },
+     "nao": {
+      "valor": 0.8199129018778808,
+      "entregas": 45
+     }
+    }
+   }
+  },
+  {
+   "coluna": 3,
+   "corte": 19.49,
+   "sim": {
+    "coluna": 8,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 331.77250000000004,
+     "sim": {
+      "valor": 0.4458052361305267,
+      "entregas": 157
+     },
+     "nao": {
+      "valor": 0.10264429597515388,
+      "entregas": 1085
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 19.96875,
+     "sim": {
+      "valor": -0.02985834081475205,
+      "entregas": 1628
+     },
+     "nao": {
+      "valor": 0.7473119613114556,
+      "entregas": 27
+     }
+    }
+   },
+   "nao": {
+    "coluna": 6,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 56.4571875,
+     "sim": {
+      "valor": -0.2722117052877872,
+      "entregas": 964
+     },
+     "nao": {
+      "valor": 0.22088976826173007,
+      "entregas": 81
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 17.0146875,
+     "sim": {
+      "valor": 0.5261150809910131,
+      "entregas": 53
+     },
+     "nao": {
+      "valor": -0.04681071734830722,
+      "entregas": 113
+     }
+    }
+   }
+  },
+  {
+   "coluna": 5,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 7,
+    "corte": 93.00999999999999,
+    "sim": {
+     "coluna": 2,
+     "corte": 4.0,
+     "sim": {
+      "valor": 1.2759912061149679,
+      "entregas": 29
+     },
+     "nao": {
+      "valor": 0.41714837175237207,
+      "entregas": 177
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 30.36,
+     "sim": {
+      "valor": -0.7116606380873262,
+      "entregas": 33
+     },
+     "nao": {
+      "valor": 0.34036333478142256,
+      "entregas": 27
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 1.0,
+    "sim": {
+     "coluna": 1,
+     "corte": 1.2,
+     "sim": {
+      "valor": -0.04264603942290606,
+      "entregas": 2867
+     },
+     "nao": {
+      "valor": 0.3442683396502529,
+      "entregas": 211
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 0.0,
+     "sim": {
+      "valor": -0.30495376333820995,
+      "entregas": 632
+     },
+     "nao": {
+      "valor": 0.008674198721660616,
+      "entregas": 132
+     }
+    }
+   }
+  },
+  {
+   "coluna": 8,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 7,
+    "corte": 42.1,
+    "sim": {
+     "coluna": 4,
+     "corte": 11.0,
+     "sim": {
+      "valor": 0.45379255178457345,
+      "entregas": 138
+     },
+     "nao": {
+      "valor": 0.1049406453522523,
+      "entregas": 1837
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 1.6,
+     "sim": {
+      "valor": -0.6879084876899357,
+      "entregas": 34
+     },
+     "nao": {
+      "valor": 0.06378321859631855,
+      "entregas": 24
+     }
+    }
+   },
+   "nao": {
+    "coluna": 7,
+    "corte": 34.8584375,
+    "sim": {
+     "coluna": 0,
+     "corte": 334.0875,
+     "sim": {
+      "valor": -0.16188339539356428,
+      "entregas": 1565
+     },
+     "nao": {
+      "valor": 0.07722212288711744,
+      "entregas": 479
+     }
+    },
+    "nao": {
+     "valor": 0.7655965029566494,
+     "entregas": 31
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 7.0,
+   "sim": {
+    "coluna": 1,
+    "corte": 3.3,
+    "sim": {
+     "coluna": 7,
+     "corte": 477.406875,
+     "sim": {
+      "valor": -0.5857967640573429,
+      "entregas": 23
+     },
+     "nao": {
+      "valor": 0.3609305339628308,
+      "entregas": 459
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 63.6184375,
+     "sim": {
+      "valor": 0.05688087786599191,
+      "entregas": 720
+     },
+     "nao": {
+      "valor": -0.5548603617031842,
+      "entregas": 78
+     }
+    }
+   },
+   "nao": {
+    "coluna": 11,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 0,
+     "corte": 945.1,
+     "sim": {
+      "valor": -0.24984624655814303,
+      "entregas": 123
+     },
+     "nao": {
+      "valor": -0.6895514621361845,
+      "entregas": 104
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 1.0,
+     "sim": {
+      "valor": 0.03871602526803732,
+      "entregas": 2088
+     },
+     "nao": {
+      "valor": -0.19634525441628278,
+      "entregas": 513
+     }
+    }
+   }
+  },
+  {
+   "coluna": 4,
+   "corte": 5.0,
+   "sim": {
+    "coluna": 5,
+    "corte": 0.0,
+    "sim": {
+     "coluna": 7,
+     "corte": 89.87625,
+     "sim": {
+      "valor": 0.749372249812945,
+      "entregas": 110
+     },
+     "nao": {
+      "valor": -0.2698525607087076,
+      "entregas": 20
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 0.6,
+     "sim": {
+      "valor": 0.03625757157111152,
+      "entregas": 2139
+     },
+     "nao": {
+      "valor": 0.3519086886048139,
+      "entregas": 200
+     }
+    }
+   },
+   "nao": {
+    "coluna": 1,
+    "corte": 16.4,
+    "sim": {
+     "coluna": 3,
+     "corte": 63.56,
+     "sim": {
+      "valor": -0.05144040001502203,
+      "entregas": 20
+     },
+     "nao": {
+      "valor": -1.0235619400908458,
+      "entregas": 27
+     }
+    },
+    "nao": {
+     "coluna": 2,
+     "corte": 5.0,
+     "sim": {
+      "valor": 0.37569303268697063,
+      "entregas": 97
+     },
+     "nao": {
+      "valor": -0.11010996942472688,
+      "entregas": 1495
+     }
+    }
+   }
+  },
+  {
+   "coluna": 5,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 1,
+    "corte": 7.9,
+    "sim": {
+     "valor": 0.9509084523484592,
+     "entregas": 33
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 3.6,
+     "sim": {
+      "valor": -0.4931540233269052,
+      "entregas": 53
+     },
+     "nao": {
+      "valor": 0.422430761804931,
+      "entregas": 161
+     }
+    }
+   },
+   "nao": {
+    "coluna": 3,
+    "corte": 81.8165625,
+    "sim": {
+     "coluna": 2,
+     "corte": 8.0,
+     "sim": {
+      "valor": 0.09544366079310292,
+      "entregas": 20
+     },
+     "nao": {
+      "valor": -0.820491213219169,
+      "entregas": 40
+     }
+    },
+    "nao": {
+     "coluna": 3,
+     "corte": 32.6409375,
+     "sim": {
+      "valor": 0.09230978510571794,
+      "entregas": 1303
+     },
+     "nao": {
+      "valor": -0.07710687952879028,
+      "entregas": 2498
+     }
+    }
+   }
+  },
+  {
+   "coluna": 9,
+   "corte": 0.0,
+   "sim": {
+    "coluna": 0,
+    "corte": 377.05,
+    "sim": {
+     "coluna": 4,
+     "corte": 2.0,
+     "sim": {
+      "valor": -0.405150016292027,
+      "entregas": 119
+     },
+     "nao": {
+      "valor": 0.5999066401429565,
+      "entregas": 70
+     }
+    },
+    "nao": {
+     "coluna": 6,
+     "corte": 3.0,
+     "sim": {
+      "valor": -0.144417794084566,
+      "entregas": 92
+     },
+     "nao": {
+      "valor": -0.6587146517892216,
+      "entregas": 129
+     }
+    }
+   },
+   "nao": {
+    "coluna": 4,
+    "corte": 2.0,
+    "sim": {
+     "coluna": 4,
+     "corte": 3.0,
+     "sim": {
+      "valor": 0.007331376456554497,
+      "entregas": 3253
+     },
+     "nao": {
+      "valor": 0.3190211137671112,
+      "entregas": 300
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 5.8,
+     "sim": {
+      "valor": 0.2587702158853257,
+      "entregas": 28
+     },
+     "nao": {
+      "valor": -0.5123173051419361,
+      "entregas": 117
+     }
+    }
+   }
+  },
+  {
+   "coluna": 0,
+   "corte": 2469.35,
+   "sim": {
+    "coluna": 7,
+    "corte": 331.77250000000004,
+    "sim": {
+     "coluna": 7,
+     "corte": 477.406875,
+     "sim": {
+      "valor": 0.1609315717436224,
+      "entregas": 20
+     },
+     "nao": {
+      "valor": 0.918575881790932,
+      "entregas": 41
+     }
+    },
+    "nao": {
+     "coluna": 1,
+     "corte": 3.4,
+     "sim": {
+      "valor": 0.41230628146136733,
+      "entregas": 138
+     },
+     "nao": {
+      "valor": -0.07943557320348993,
+      "entregas": 190
+     }
+    }
+   },
+   "nao": {
+    "coluna": 3,
+    "corte": 40.878437500000004,
+    "sim": {
+     "coluna": 7,
+     "corte": 108.20875,
+     "sim": {
+      "valor": -0.33689976789736753,
+      "entregas": 423
+     },
+     "nao": {
+      "valor": 0.13076402775400203,
+      "entregas": 208
+     }
+    },
+    "nao": {
+     "coluna": 7,
+     "corte": 56.4571875,
+     "sim": {
+      "valor": 0.039564561125184465,
+      "entregas": 2812
+     },
+     "nao": {
+      "valor": -0.3472391178078055,
+      "entregas": 276
+     }
+    }
+   }
+  }
+ ],
+ "colunas": [
+  "distancia_km",
+  "peso_kg",
+  "itens",
+  "valor_frete",
+  "prazo_prometido_dias",
+  "vespera_feriado",
+  "dia_semana_despacho",
+  "valor_pedido",
+  "transportadora=Economica",
+  "transportadora=Propria",
+  "transportadora=Rapida",
+  "regiao=Centro-Oeste",
+  "regiao=Nordeste",
+  "regiao=Norte",
+  "regiao=Sudeste",
+  "regiao=Sul"
+ ]
+}

@@ -1,0 +1,5 @@
+real,no_prazo,atraso_curto,atraso_longo,extravio
+no_prazo,0,0,4,12
+atraso_curto,0,0,4,12
+atraso_longo,45,45,19,27
+extravio,500,500,504,162

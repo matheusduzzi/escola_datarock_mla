@@ -1,0 +1,5 @@
+# Diagnóstico e bases do kit. Rodado com Python 3.9.6 e pandas 2.3.3 (numpy 2.0.2), em 2026-11-08.
+# As bibliotecas de modelos (scikit-learn, XGBoost, LightGBM, CatBoost), de experimentos (MLflow, Optuna)
+# e de explicação (SHAP, LIME, matplotlib) entram na aula que usa cada uma pela primeira vez, com a versão e o Python mínimo.
+pandas
+numpy

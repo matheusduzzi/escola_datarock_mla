@@ -1,0 +1,65 @@
+{
+ "run": {
+  "nome": "caio",
+  "comando": "python3 experimento.py rodar --nome caio --semente 2 --passo 0.05 --rodadas 60",
+  "inicio": "2026-11-12 08:42:37",
+  "duracao_s": 0.6
+ },
+ "codigo": {
+  "arquivo": "experimento.py",
+  "sha256": "a9877166d9c2b8bd68e50c22fe0c7870160081014df26796fc1aa6d429fa0770"
+ },
+ "dados": {
+  "arquivo": "dados/entregas.csv",
+  "sha256": "e2bd1224c8e2545cf08252b47d40c104e3f0c1ab85bd9425b33e13e2c364540f",
+  "linhas": 12000,
+  "treino": {
+   "de": "2025-07-01",
+   "ate": "2026-02-28",
+   "entregas": 8215,
+   "sha256": "078c0bc5b11a50a3386bbfa659afd5c2b06ccedb1368d3cbb255b4c86d5be6cb"
+  },
+  "validacao": {
+   "de": "2026-03-01",
+   "ate": "2026-04-30",
+   "entregas": 1888,
+   "sha256": "3ec70be906927debb9e26b38de90238be497a2cd07e71cc8e6c8c6ee3a101c9f"
+  }
+ },
+ "parametros": {
+  "fim_treino": "2026-02-28",
+  "fim_validacao": "2026-04-30",
+  "rodadas": 60,
+  "profundidade": 3,
+  "passo": 0.05,
+  "subamostra": 0.5,
+  "min_folha": 20,
+  "semente": 2
+ },
+ "metricas": {
+  "acerto_do_par_validacao": 0.6399,
+  "brier_validacao": 0.207128,
+  "acerto_do_par_treino": 0.682717,
+  "atrasou_validacao": 630
+ },
+ "artefatos": [
+  {
+   "arquivo": "modelo.json",
+   "sha256": "7c18194e72158b5352510f65a21689bddb98db2f6d9e18910b40543fd7318cc2"
+  },
+  {
+   "arquivo": "notas_validacao.csv",
+   "sha256": "fc67f42d5784107612a023ebc6bcd4b68300a2b831998bbff2134eac6e3b6b17"
+  },
+  {
+   "arquivo": "experimento.py",
+   "sha256": "a9877166d9c2b8bd68e50c22fe0c7870160081014df26796fc1aa6d429fa0770"
+  }
+ ],
+ "ambiente": {
+  "python": "3.9.6",
+  "numpy": "2.0.2",
+  "pandas": "2.3.3",
+  "sistema": "Darwin arm64"
+ }
+}
