@@ -1,0 +1,5 @@
+# Aula «MLflow e registry». Python 3.10 ou mais novo (o MLflow 3.18.0 não instala no 3.9).
+# Rodado com Python 3.14.5 em 2026-11-12, com estas versões:
+mlflow==3.18.0
+numpy==2.5.4
+pandas==3.1.1
