@@ -1,0 +1,7 @@
+{
+  "learning_rate": {"de": 0.01, "ate": 0.3, "escala": "log"},
+  "max_iter": {"de": 5, "ate": 400, "escala": "log", "inteiro": true},
+  "max_leaf_nodes": {"de": 2, "ate": 32, "escala": "log", "inteiro": true},
+  "min_samples_leaf": {"de": 5, "ate": 400, "escala": "log", "inteiro": true},
+  "l2_regularization": {"de": 0.001, "ate": 10, "escala": "log"}
+}

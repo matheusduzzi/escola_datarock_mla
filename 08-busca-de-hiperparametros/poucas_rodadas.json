@@ -1,0 +1,5 @@
+{
+  "learning_rate": {"valores": [0.3]},
+  "max_iter": {"valores": [8, 10, 15]},
+  "max_leaf_nodes": {"fixo": 4}
+}

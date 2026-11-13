@@ -65,10 +65,14 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [04-random-forest/](04-random-forest/) | Random Forest |
 | [06-run-parametro-metrica-e-artefato/](06-run-parametro-metrica-e-artefato/) | Run, parâmetro, métrica e artefato |
 | [07-mlflow-e-registry/](07-mlflow-e-registry/) | MLflow e registry |
+| [08-busca-de-hiperparametros/](08-busca-de-hiperparametros/) | Busca de hiperparâmetros |
 | [09-optuna/](09-optuna/) | Optuna |
+| [10-selecao-de-atributos/](10-selecao-de-atributos/) | Seleção de atributos |
 | [11-importancias-nativa-e-por-permutacao/](11-importancias-nativa-e-por-permutacao/) | Importâncias nativa e por permutação |
 | [12-shap/](12-shap/) | SHAP |
 | [13-shap-e-lime/](13-shap-e-lime/) | SHAP e LIME |
 | [14-pdp-e-ice/](14-pdp-e-ice/) | PDP e ICE |
 | [15-multiclasse/](15-multiclasse/) | Multiclasse |
 | [16-multiclasse-na-loja-exemplo/](16-multiclasse-na-loja-exemplo/) | Multiclasse na Loja Exemplo |
+| [17-sucesso-do-cliente/](17-sucesso-do-cliente/) | Sucesso do cliente |
+| [18-revisao-de-modelo-candidato/](18-revisao-de-modelo-candidato/) | Revisão de modelo candidato |

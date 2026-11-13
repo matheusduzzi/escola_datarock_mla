@@ -1,0 +1,7 @@
+rodada,modelo,colunas_por_no,folha_minima,arvores,sorteio,treino,avaliado_em,linhas_avaliadas,acerto_do_par,dos_150_primeiros,escolhido
+1,floresta,4,1,100,0,"80% das linhas, ao acaso","teste (20% das linhas, ao acaso)",1499,0.890765,120.0,0
+2,floresta,4,5,100,0,"80% das linhas, ao acaso","teste (20% das linhas, ao acaso)",1499,0.90008,117.0,0
+3,floresta,4,20,100,0,"80% das linhas, ao acaso","teste (20% das linhas, ao acaso)",1499,0.902815,118.0,0
+4,floresta,8,1,100,0,"80% das linhas, ao acaso","teste (20% das linhas, ao acaso)",1499,0.888582,118.4,0
+5,floresta,8,5,100,0,"80% das linhas, ao acaso","teste (20% das linhas, ao acaso)",1499,0.90299,118.0,0
+6,floresta,8,20,100,0,"80% das linhas, ao acaso","teste (20% das linhas, ao acaso)",1499,0.908444,118.0,1

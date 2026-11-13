@@ -1,0 +1,43 @@
+{
+  "autor": "Diego",
+  "modelo": "floresta de 100 árvores, 8 colunas por nó, folha mínima 20",
+  "dados": {
+    "arquivo": "assinantes.csv",
+    "sha256": "78eeab54dcd46f93c7b4acd3e54cc700abf3c17d7390440c3a936c36768a0f3f"
+  },
+  "config_escolhida": {
+    "colunas": 8,
+    "min_folha": 20
+  },
+  "colunas": [
+    "meses_de_casa",
+    "usuarios_contratados",
+    "logins_30d",
+    "variacao_logins_pct",
+    "chamados_30d",
+    "nps_ultimo",
+    "atraso_pagamento_dias",
+    "desconto_ativo",
+    "recebeu_contato_30d",
+    "fotos_do_cliente",
+    "plano_basico",
+    "plano_pro",
+    "plano_rede",
+    "segmento_farmacia",
+    "segmento_mercado",
+    "segmento_moda",
+    "segmento_papelaria",
+    "segmento_pet"
+  ],
+  "divisao": "80% das linhas para treino e 20% para teste, ao acaso (sorteio 42)",
+  "resultado": {
+    "avaliado_em": "teste",
+    "acerto_do_par": 0.9084,
+    "dos_150_primeiros": 118
+  },
+  "ambiente": {
+    "python": "3.9.6",
+    "pandas": "2.3.3",
+    "numpy": "2.0.2"
+  }
+}

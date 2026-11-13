@@ -1,0 +1,40 @@
+{
+  "autor": "Diego",
+  "modelo": "regressão logística, penalidade 1,0, com a guarda do caso.py",
+  "dados": {
+    "arquivo": "assinantes.csv",
+    "sha256": "02570657cc47c5b2e54c5ec9b3fed982cab6c7a4d12da4ca9f0adf33e7532144"
+  },
+  "config_escolhida": {
+    "penalidade": 1.0
+  },
+  "colunas": [
+    "meses_de_casa",
+    "usuarios_contratados",
+    "logins_30d",
+    "variacao_logins_pct",
+    "chamados_30d",
+    "atraso_pagamento_dias",
+    "desconto_ativo",
+    "nps",
+    "nps_vazio",
+    "plano=basico",
+    "plano=pro",
+    "segmento=farmacia",
+    "segmento=mercado",
+    "segmento=moda",
+    "segmento=papelaria",
+    "segmento=pet"
+  ],
+  "divisao": "treino nas fotos de 2025-07-01 e 2025-10-01, escolha na de 2026-01-01, teste na de 2026-04-01",
+  "resultado": {
+    "avaliado_em": "teste (2026-04-01)",
+    "acerto_do_par": 0.714,
+    "dos_150_primeiros": 54
+  },
+  "ambiente": {
+    "python": "3.9.6",
+    "pandas": "2.3.3",
+    "numpy": "2.0.2"
+  }
+}

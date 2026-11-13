@@ -1,0 +1,8 @@
+rodada,modelo,treino,avaliado_em,linhas_avaliadas,acerto_do_par,dos_150_primeiros,escolhido
+1,"floresta, sorteio 0",fotos 2025-07-01 e 2025-10-01,validação (2026-01-01),1916,0.73255,73.0,1
+2,"floresta, sorteio 1",fotos 2025-07-01 e 2025-10-01,validação (2026-01-01),1916,0.731849,74.0,0
+3,"floresta, sorteio 2",fotos 2025-07-01 e 2025-10-01,validação (2026-01-01),1916,0.732192,73.0,0
+4,"floresta, sorteio 3",fotos 2025-07-01 e 2025-10-01,validação (2026-01-01),1916,0.730233,72.0,0
+5,"floresta, sorteio 4",fotos 2025-07-01 e 2025-10-01,validação (2026-01-01),1916,0.731084,71.0,0
+6,regressão logística,fotos 2025-07-01 e 2025-10-01,validação (2026-01-01),1916,0.733641,74.0,0
+7,"floresta, sorteio 0","fotos 2025-07-01, 2025-10-01 e 2026-01-01","teste (2026-04-01), sem os separados pela guarda",1891,0.721079,69.0,1
